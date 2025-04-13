@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+I'm Alvin (he/him), and I'm a novice software engineer from Indonesia. Nice to meet you!<br>
 <!--
 **AlvinLH/AlvinLH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
